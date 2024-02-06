@@ -1,8 +1,9 @@
-
-![logo 1](https://github.com/diegomolinatrejos/diegomolinatrejos/assets/57080340/53fd7032-21c0-4f71-a9fa-302c55506aa8)
+![logo 2 - copia](https://github.com/diegomolinatrejos/diegomolinatrejos/assets/57080340/f0b75f14-8236-40b7-8f81-74b1ccf70afa)
 
 ### Hi there 👋 I´m Diego Molina Trejos
 I develop Backend software and web applications.
+
+
 {
   "Technologies": "JS, C#, Java, React, .NET",
   "Tools": "Visual Studio, VS Code, IntelliJ IDE, Git",
