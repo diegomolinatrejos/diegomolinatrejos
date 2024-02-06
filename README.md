@@ -1,4 +1,14 @@
-### Hi there 👋
+![dimotre](C:\Users\Diego Molina\OneDrive\Dimotre profesional\dimotre portafolio)
+
+### Hi there 👋 I´m Diego Molina Trejos
+I develop Backend software and web applications.
+{
+  "Technologies": "JS, C#, Java, React, .NET",
+  "Tools": "Visual Studio, VS Code, IntelliJ IDE, Git",
+  "Interest": ["QA", "AWS", "Astro", "Next", "PHP"]
+}
+
+
 
 <!--
 **diegomolinatrejos/diegomolinatrejos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
