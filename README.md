@@ -1,5 +1,5 @@
-![dimotre](![logo 1](https://github.com/diegomolinatrejos/diegomolinatrejos/assets/57080340/fd5c1083-4147-438a-8901-fd2d3225626d)
-)
+
+![logo 1](https://github.com/diegomolinatrejos/diegomolinatrejos/assets/57080340/53fd7032-21c0-4f71-a9fa-302c55506aa8)
 
 ### Hi there 👋 I´m Diego Molina Trejos
 I develop Backend software and web applications.
