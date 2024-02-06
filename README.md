@@ -1,4 +1,5 @@
-![dimotre](C:\Users\Diego Molina\OneDrive\Dimotre profesional\dimotre portafolio)
+![dimotre](![logo 1](https://github.com/diegomolinatrejos/diegomolinatrejos/assets/57080340/fd5c1083-4147-438a-8901-fd2d3225626d)
+)
 
 ### Hi there 👋 I´m Diego Molina Trejos
 I develop Backend software and web applications.
