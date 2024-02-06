@@ -2,7 +2,11 @@
 
 ### Hi there 👋 I´m Diego Molina Trejos
 I develop Backend software and web applications.  
-{"Technologies" : "JS, C#, Java, React, .NET",  "Tools": "Visual Studio, VS Code, IntelliJ IDE, Git",  "Interest": ["QA", "AWS", "Astro", "Next", "PHP"]}
+{
+"Technologies" : ["JS, C#, Java, React, .NET"],
+"Tools": ["Visual Studio, VS Code, IntelliJ IDE, Git"],  
+"Interest": ["QA", "AWS", "Astro", "Next", "PHP"]
+}
 
 
 <!--
