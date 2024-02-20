@@ -4,10 +4,13 @@
 I develop Backend software and web applications.  
 
 {  
-"Technologies" : ["JS, C#, Java, React, .NET"],  
-"Tools": ["Visual Studio, VS Code, IntelliJ IDE, Git"],    
+"Technologies" : ["JS, :net, C#, Java, React"],  
+"Tools": ["Visual Studio, VS Code, IntelliJ IDEA, Git"],    
 "Interest": ["QA", "AWS", "Astro", "Next", "PHP"]  
 }
+
+You can find me: 
+- [LinkedIn] (https://www.linkedin.com/in/diegomolinatrejos/)
 
 
 <!--
